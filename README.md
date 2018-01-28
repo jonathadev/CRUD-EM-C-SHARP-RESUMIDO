@@ -1,0 +1,2 @@
+# CRUD-EM-C-SHARP-DEVMEDIA-RESUMIDO
+Versão resumida do CRUD DEVMEDIA com menu
